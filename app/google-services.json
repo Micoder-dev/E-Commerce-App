@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690246783459",
+    "project_id": "e-commerce-ac94a",
+    "storage_bucket": "e-commerce-ac94a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690246783459:android:6ab6213605875f911250d6",
+        "android_client_info": {
+          "package_name": "com.micoder.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690246783459-3ctokcnufa2c4pgunnl6oft4dib5qffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyD304bHvOznaKwW0bABW5AqAb1eymTBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690246783459-3ctokcnufa2c4pgunnl6oft4dib5qffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
